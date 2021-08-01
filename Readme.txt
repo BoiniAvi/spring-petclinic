@@ -1,2 +1,2 @@
 First test Retest
-Jenkins test and deploy
+Jenkins test and deployment
